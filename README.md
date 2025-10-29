@@ -40,7 +40,7 @@ Please note that these repositories are works in progress and may change frequen
 ---
 ### Quotes to live by:
 - *"5 hours of debugging can save you 5 mins of reading the docs"*
-- *"Why spend 5 minutes doing something when I can spend 5 days failing to automate it* 
+- *"Why spend 5 minutes doing something when I can spend 5 days failing to automate it?"* 
 
 
 <!--
