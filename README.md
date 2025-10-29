@@ -1,18 +1,22 @@
 ## Hi there 👋 I'm Bence
-🔭 Currently developing and managing infrastructure & deployment for: 
-- [irodalomerettsegi.hu](https://irodalomerettsegi.hu)
-- [Agora Savaria Jegyrendszer](https://jegy-agorasavaria.hu)
-- infoacademy.hu *(soon)*
-<p>🏫 Currently studying Informatics at <b>IMC University of Applied Sciences</b> in Krems, Austria.</p>
+Cloud & DevOps Engineer. Building [BNBDEVELOPMENT](https://github.com/bnbdevelopment/). Studying Informatics at **IMC University of Applied Sciences** in Krems, Austria.
+
+Check out [irodalomerettsegi.hu](https://irodalomerettsegi.hu).
 
 ---
 
-### 🧑‍💻 Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BenceGyurus&repo=jegyrendszer&theme=github_dark)](https://github.com/BenceGyurus/jegyrendszer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bencetotht&repo=playbooks&theme=github_dark)](https://github.com/bencetotht/playbooks)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bencetotht&repo=neural&theme=github_dark)](https://github.com/bencetotht/neural)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bencetotht&repo=jegyrendszer-infra&theme=github_dark)](https://github.com/bencetotht/jegyrendszer-infra)
+### 🧑‍💻 Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bencetotht&repo=bnbdevelopment-infra&theme=github_dark)](https://github.com/bencetotht/bnbdevelopment-infra)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bencetotht&repo=k8s&theme=github_dark)](https://github.com/bencetotht/k8s)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bencetotht&repo=dotfiles&theme=github_dark)](https://github.com/bencetotht/dotfiles)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bencetotht&repo=playbooks&theme=github_dark)](https://github.com/bencetotht/playbooks)
+
+Other project, you might be interested in:
+- [simplemailer](https://github.com/bencetotht/simplemailer): highly available, fault-tolerant, scalable message sending platform
+- [OpenDownloader](https://github.com/bencetotht/opendownloader): modern, user-friendly web application for downloading audio content from YouTube and SoundCloud
+- [Hybrid Infrastructure Concept](https://github.com/bencetotht/hybrid-infra): hybrid concept with AWS and on-prem infrastructure, currently the backbone of [BNBDEVELOPMENT](https://docs.bnbdevelopment.hu/docs/bnb-infra/index)
+
+Please note that these repositories are works in progress and may change frequently. Use them at your own risk.
 
 ---
 
@@ -32,6 +36,12 @@
   <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 </p>
+
+---
+### Quotes to live by:
+- *"5 hours of debugging can save you 5 mins of reading the docs"*
+- *"Why spend 5 minutes doing something when I can spend 5 days failing to automate it* 
+
 
 <!--
 **bencetotht/bencetotht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
